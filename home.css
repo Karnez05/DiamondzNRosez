@@ -79,15 +79,18 @@ li > a:hover {
     padding-left: 50px;
     padding-top:10px;
     border: 5px solid grey;
+    margin-bottom: 50px;
     border-right: 0px;
     padding-right: 50px;
     padding-bottom: 10px;
+    border-bottom: -20px;
 }
 
   p{
     padding-top: -255px;
     font-family: 'Lobster', cursive;
-    font-size: 20px;
+    font-size: 19px;
+    padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 30px;
     border: 5px solid grey; 
@@ -95,6 +98,7 @@ li > a:hover {
   }
  .box1{
      padding-top: 250px;
+     
  }
 
   .box2{
